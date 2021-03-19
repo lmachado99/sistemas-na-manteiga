@@ -1,0 +1,28 @@
+Grupo: Sistemas na Manteiga
+Integrantes: Lucas Greve| Vinicius Barreto| Matheus Pablo
+
+
+INTRODUÇÃO
+O Presente Projeto tem como principal objetivo demonstrar a estrutura e funcionamento de um sistema distribuído.
+
+O que seria um sistema distribuído?
+Segundo Tanenbaun, “Um Sistema distribuído é um conjunto de computadores independentes que se apresenta a seus usuários como um sistema único e coerente”.
+
+
+
+SISTEMA REGISTRO DE PONTO
+
+Nosso sistema de registro tem a seguinte linha de funcionamento:
+
+(i)– O usuário em posse das suas credenciais de acesso, faz o input na primeira tela de login.
+(ii) – Após inseridas as credenciais de acesso, é checado o nível que o usuário possui dentro do sistema. Pois esse passo determina qual tela o usuário irá ter acesso em seguida.
+Casos possíveis:
+Usuário Comum – Terá acesso apenas a tela para registro de ponto.
+Usuário Gestor – Além da tela para registro de ponto ele terá acesso aos registros e controles de outros usuários dos quais ele coordena.
+(iii) – Após checadas as credencias, caso ocorra erro nos dados inseridos, será mostrada ao usuário o aviso de “senha incorreta” e o mesmo poderá redefini-la através do link “Esqueceu sua senha” Disposto na primeira tela do sistema.
+
+
+
+Por que se trata de um sistema distribuído? 
+
+Acreditamos que seja um sistema distribuído, pelo fato de não ser executado (rodar) em uma única maquina. É necessário acesso a servidores (físicos ou em nuvem) para o correto funcionamento da plataforma.
