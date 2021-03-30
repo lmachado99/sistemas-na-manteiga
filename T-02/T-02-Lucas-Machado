@@ -1,0 +1,9 @@
+Nome: Lucas Machado de Azevedo Greve
+RA: 201951565411
+
+A tecnologia escolhida foi a DCOM. Os principais motivos pela escolha são:
+- Podem ser usadas diversas linguagens de programação, tais como Java, C++, COBOL, etc.
+- Seu protocolo remoto é baseado numa camada de código que separa o modelo de objeto do componente do tempo de execução RPC base (esse protocolo é chamado de ORPC).
+- Na identificação de objeto, ele possui um ponteiro de interface, que é usado como um identificador único para um objeto de servidor remoto.
+- Utiliza o Service Control Manager (SCM) para localizar e ativar um objeto. O SCM é um processo de sistema da família de sistemas operacionais Windows NT, que interage, indica e para os processos de serviço do Windows.
+- A ativação do servidor simples. Basta apenas fazer um CoCreateInstance() para ativar o servidor.
