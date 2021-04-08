@@ -1,0 +1,16 @@
+Nome: Lucas Sylvestre 
+RA: 201751083438
+
+
+Tecnologia Escolhida: CORBA
+
+Razoes que justificam a escolha:
+
+- Dispoe de heterogenidade, ou seja, os processos rodam em plataformas diferentes, independete da linguagem em que foi escrito
+seja (C, Java, ou C++)
+- Possui total transparencia para os objetos distribuidos por meio de IDL, que possibilita a interoperabilidades entre os diversos sistemas, ja que a separação é feita
+entre interface e execução.
+- e Graças ao ORB, o desenvolvedor nao precisa se preocupar com o tratamento de dados da requisição, ja que os parametros sao convertidos entre formatos de maquina diferentes
+pelo mecanismo marshall e unmarshall. 
+- alem de ser uma tecnologia madura 
+
