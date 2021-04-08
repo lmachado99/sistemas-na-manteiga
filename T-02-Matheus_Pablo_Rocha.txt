@@ -1,9 +1,0 @@
-Nome: Matheus Pablo Teixeira Ribeiro Rocha	RA: 201751147576
-
-Tecnologia escolhida: RMI
-
-Motivos pelo qual escolhi:
-- É uma tecnologia suportada pela plataforma Java que facilita o desenvolvimento de aplicações distribuídas.
-- Permite ao programador criar métodos de objetos remotos, que estejam em máquinas virtuais Java distintas, também pode desenvolver aplicações totalmente distribuídas como se tratassem de aplicações locais. 
-- Permite lidar facilmente com contingências do tipo: risco de falhas de comunicação, latências variáveis, limites de banda, falha de servidores, etc...
-- Possui heterogeneidade, podendo trabalhar com diferentes hardware e sistemas (Unix, Linux, Windows, etc.)
