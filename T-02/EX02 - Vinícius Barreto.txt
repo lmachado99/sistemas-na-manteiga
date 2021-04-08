@@ -1,0 +1,17 @@
+Nome: Vinícius Britto Barreto
+RA: 201751128075
+
+Escolhi a CORBA,pelos seguintes motivos:
+
+Atua de modo que os objetos (componentes dos softwares) possam se comunicar de forma transparente ao usuário.
+É um dos modelos mais populares de objetos distribuídos.
+uma linguagem baseada em C++ que não possui algoritmos nem variáveis, ou seja, é puramente declarativa, e, portanto, é independente da linguagem de programação utilizada para acessá-la.
+Possibilita a interoperabilidade entre os diversos sistemas, visto a separação que é definida entre interface e execução.
+A interface de cada objeto é definida de forma bastante específica, enquanto a sua execução (código fonte e dados) permanece oculta para o resto do sistema.
+
+Ao contrário dos objetos tradicionais, os objetos em sistemas distribuídos possuem uma característica de dualidade: um estado dinâmico, tipicamente alocado em memória volátil (em tempo de execução), e um estado persistente, que não pode ser destruído após o encerramento do programa que os criou e que pode ser usado para reconstruir o estado dinâmico, devendo ser armazenado em memória não volátil, seja em sistema de arquivos ou banco de dados. A arquitetura CORBA, para prover a persistência, define o Persistent Object Service (POS) como sendo responsável por armazenar o estado persistente dos objetos, utilizando quatro elementos:
+
+Objetos Persistentes (Persistent Object (POs))
+Gerenciador de Objetos Persistentes (Persistent Objects Manager (POM))
+Serviços de Persistência de Dados (Persistent Data Services (PDSs))
+Base de Dados (Datastores)
