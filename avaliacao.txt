@@ -5,9 +5,14 @@ T01 = 1.5 pts
 
 T02
 
-Lucas Machado de Azevedo Greve		= 1 pt
-Lucas Marigliani Sylvestre		= 1 pt
-Matheus Pablo Teixeira Ribeiro Rocha	= 1 pt
-Vinicius Britto Barreto			= 1 pt
+	Lucas Machado de Azevedo Greve		= 1 pt
+	Lucas Marigliani Sylvestre		= 1 pt
+	Matheus Pablo Teixeira Ribeiro Rocha	= 1 pt
+	Vinicius Britto Barreto			= 1 pt
+
+
+T03 = 2.5 pts
+
+
 
 
