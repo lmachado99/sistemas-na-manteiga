@@ -1,0 +1,28 @@
+.botoes {
+    align-items: center;
+    padding-top: 100px;
+}
+
+.link {
+    color: #000000;
+}
+
+.quadrado-bater-ponto {
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 20px;
+    float: left;
+    margin-left: 70px;
+    padding: 20px;
+}
+
+.quadrado-consultar-ponto {
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 20px;
+    float: right;
+    margin-right: 70px;
+    padding: 20px;
+}
