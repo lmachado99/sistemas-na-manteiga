@@ -4,10 +4,10 @@ services:
   mysqlsrv:
     image: mysql:5.7
     environment:
-      MYSQL_ROOT_PASSWORD: "MySql2019!"
-      MYSQL_DATABASE: "testedb"
+      MYSQL_ROOT_PASSWORD: "luc@s99.com"
+      MYSQL_DATABASE: "apontamentos"
     ports:
-      - "3307:3306"
+      - "3306:3306"
     networks:
       - mysql-compose-network
 
