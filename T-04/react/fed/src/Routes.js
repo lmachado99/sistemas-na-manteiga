@@ -29,10 +29,15 @@ const Routes = () => {
       .post("http://localhost:3000/horario/marcar", marcarHora)
       .then(() => {
         alert("Hora logada com sucesso");
+        document.location.reload();
       })
       .catch((err) => {
+        alert("Sistema indisponível no momento.");
         console.log("Erro: ", err);
+        document.location.reload();
       });
+
+      
   };
 
   return (
